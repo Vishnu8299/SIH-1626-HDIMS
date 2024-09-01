@@ -24,7 +24,13 @@ This project is a **Hospital Department Information Management System** built us
 ## Image
 <div style="display: flex; justify-content: space-around;">
   <img src="assets/logo.png" width="300" alt="Hospital Form Page">
-  <img src="assets/images/" width="300" alt="Hospital Home Page">
+  <img src="assets/zenith.jpg" width="300" alt="Hospital Home Page">
+   <img src="assets/zenith1.jpg" width="300" alt="Hospital Home Page">
+   <img src="assets/zenith2.jpg" width="300" alt="Hospital Home Page">
+   <img src="assets/zenith3.jpg" width="300" alt="Hospital Home Page">
+   <img src="assets/zenith4.jpg" width="300" alt="Hospital Home Page">
+   <img src="assets/zenith5.jpg" width="300" alt="Hospital Home Page">
+   <img src="assets/zenith6.jpg" width="300" alt="Hospital Home Page">
 </div>
 
 ## Installation
