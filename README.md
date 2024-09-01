@@ -23,7 +23,7 @@ This project is a **Hospital Department Information Management System** built us
 - Simple navigation drawer for menu
 ## Image
 <div style="display: flex; justify-content: space-around;">
-  <img src="assets/logo" width="300" alt="Hospital Form Page">
+  <img src="assets/logo.png" width="300" alt="Hospital Form Page">
   <img src="assets/images/" width="300" alt="Hospital Home Page">
 </div>
 
