@@ -1,16 +1,31 @@
-# hp_app
+# Hospital Department Information Management System (HDIMS)
 
-A new Flutter project.
+This project is a **Hospital Department Information Management System** built using **Flutter** for the frontend and integrates with Firebase for backend services. It includes features such as hospital department management, profile management, and secure user authentication.
 
-## Getting Started
+## Table of Contents
 
-This project is a starting point for a Flutter application.
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Technologies Used](#technologies-used)
+- [Screenshots](#screenshots)
+- [Contributing](#contributing)
+- [License](#license)
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Hospital department management
+- User authentication (Profile, Logout)
+- Detailed hospital information form
+- Profile page displaying hospital details
+- Integration with Firebase
+- Simple navigation drawer for menu
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+To run this project locally, follow these steps:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/Vishnu8299/SIH-1626-HDIMS.git
