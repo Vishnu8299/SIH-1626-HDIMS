@@ -21,6 +21,8 @@ This project is a **Hospital Department Information Management System** built us
 - Profile page displaying hospital details
 - Integration with Firebase
 - Simple navigation drawer for menu
+## Image
+
 
 ## Installation
 
