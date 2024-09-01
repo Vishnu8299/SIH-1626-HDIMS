@@ -22,7 +22,11 @@ This project is a **Hospital Department Information Management System** built us
 - Integration with Firebase
 - Simple navigation drawer for menu
 ## Image
-
+### 1. Hospital Form Page
+<div style="display: flex; justify-content: space-around;">
+  <img src="assets/images/logo" width="300" alt="Hospital Form Page">
+  <img src="assets/images/" width="300" alt="Hospital Home Page">
+</div>
 
 ## Installation
 
