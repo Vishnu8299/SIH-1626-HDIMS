@@ -1,7 +1,6 @@
 # Hospital Department Information Management System (HDIMS)
 
-This project is a **Hospital Department Information Management System** built using **Flutter** for the frontend and integrates with Firebase for backend services. It includes features such as hospital department management, profile management, and secure user authentication.
-
+This project is a Hospital Department Information Management System (HDIMS), built using Flutter for the frontend, and integrated with Firebase for backend services. The system is designed to streamline the management of hospital departments, staff profiles, and patient interactions, ensuring seamless communication and efficient operations.
 ## Table of Contents
 
 - [Features](#features)
